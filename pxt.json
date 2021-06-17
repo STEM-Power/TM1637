@@ -1,6 +1,6 @@
 {
     "name": "TM1637",
-    "description": "",
+    "description": "makecode 4 Digits 7-segments LED Display (TM1637 by STEM Power) package for micro:bit",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
