@@ -6,7 +6,7 @@
 /**
  * Four Digits 7-Segments Display Module
  */
-//% weight=100 color=#c8f13c icon="\uf017"  block="TM1637 V5"
+//% weight=100 color=#809536 icon="\uf017"  block="TM1637 V5"
 namespace TM1637 {
     let TM1637_CMD1 = 0x40
     let TM1637_CMD2 = 0xC0
