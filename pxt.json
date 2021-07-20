@@ -11,7 +11,7 @@
         "main.blocks",
         "main.ts",
         "_locales/zh-TW/TM1637-strings.json",
-	    "_locales/zh-TW/TM1637-jsdoc-strings.json",
+        "_locales/zh-TW/TM1637-jsdoc-strings.json",
         "README.md"
     ],
     "testFiles": [
