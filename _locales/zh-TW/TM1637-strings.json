@@ -8,7 +8,7 @@
   "TM1637.DMshowDP|block": "顯示在 %DMposition |位置的小數點 %DMDPshow",
   "TM1637.DMshowHex|block": "以16進制形式顯示 %DMnum",
   "TM1637.DMshowNumber|block": "顯示數值 %DMnum",
-  "TM1637.DMshowbit|block": "在數位 %DMposition |顯示 %DMnum",
+  "TM1637.DMshowbit|block": "將數值 %DMnum| 顯示在數位 %DMposition",
   "TM1637.TM1637_init|block": "TM1637 CLK %TM1637clk|DIO %DTM1637dio|亮度 %DMintensity| %DMcount |位七劃數字",
   "TM1637|block": "TM1637",
   "{id:category}TM1637": "TM1637"
