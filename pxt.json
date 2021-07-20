@@ -11,12 +11,16 @@
         "main.blocks",
         "main.ts",
         "_locales/zh-TW/TM1637-strings.json",
-	    "_locales/zh-TW/TM1637-jsdoc-strings.json",
+        "_locales/zh-TW/TM1637-jsdoc-strings.json",
         "README.md"
     ],
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "4.0.9",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
