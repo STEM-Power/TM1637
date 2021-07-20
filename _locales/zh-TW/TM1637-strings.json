@@ -1,0 +1,15 @@
+{
+  "TM1637.DM_intensity|block": "顯示屏亮度 %DMval",
+  "TM1637.DM_off|block": "關閉顯示",
+  "TM1637.DM_on|block": "開啟顯示",
+  "TM1637.DMclear|block": "清除顯示",
+  "TM1637.DMshowApostrophe|block": "顯示撇號 %DMAshow",
+  "TM1637.DMshowColon|block": "顯示冒號 %DMCshow",
+  "TM1637.DMshowDP|block": "顯示在 %DMposition |位置的小數點 %DMDPshow",
+  "TM1637.DMshowHex|block": "以16進制形式顯示 %DMnum",
+  "TM1637.DMshowNumber|block": "顯示數值 %DMnum",
+  "TM1637.DMshowbit|block": "在數位 %DMposition |顯示 %DMnum",
+  "TM1637.TM1637_init|block": "TM1637 CLK %TM1637clk|DIO %DTM1637dio|亮度 %DMintensity| %DMcount |位七劃數字",
+  "TM1637|block": "TM1637",
+  "{id:category}TM1637": "TM1637"
+}
